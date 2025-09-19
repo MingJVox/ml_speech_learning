@@ -373,7 +373,7 @@ project_fasttrack/
 
 - [📦 Docker 入门教程（B站）](https://www.bilibili.com/video/BV1THKyzBER6/?spm_id_from=333.337.search-card.all.click&vd_source=60fc8fe7df9a5d270abe321b54e20a92)
 - [🎥 Podman 使用入门（YouTube）](https://www.youtube.com/watch?v=iJe0qzO8EHs)
-- [📘 Apptainer 官方文档](https://docs.apptainer.org/)
+- [📘 Apptainer 官方文档](https://apptainer.org/docs/user/latest/)
 - [🔧 Conda + 容器搭配 Jupyter 教程](https://www.bilibili.com/video/BV1Z7411L7dy/?spm_id_from=333.337.search-card.all.click&vd_source=60fc8fe7df9a5d270abe321b54e20a92)
 
 > 使用说明与容器配置文件统一放在 `containers/` 目录下，具体每个项目是否容器化将在对应 `notes.md` 中注明。
