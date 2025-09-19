@@ -391,7 +391,7 @@ project_fasttrack/
 ## 🔗 其他参考项目与资料合集（更新中...
 
 - [PyTorch 官方 60 分钟 Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-- [Scikit-learn 官方教程合集](https://scikitlearn.com.cn/))
+- [Scikit-learn 官方教程合集](https://scikitlearn.com.cn/)
 - [基于 faster‑whisper 实现实时语音识别项目（B站）](https://www.bilibili.com/video/BV1fQ4y1j7wb/) 
 - [基于 faster‑whisper 实现实时语音识别项目（B站）](https://www.bilibili.com/video/BV1fQ4y1j7wb/) 
 - [whisper.cpp 最详细安装教程（B站）](https://www.bilibili.com/video/BV19L411v7cq/) 
