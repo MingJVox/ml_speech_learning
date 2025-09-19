@@ -362,7 +362,7 @@ project_fasttrack/
 ## 📌 视频资源
 - [PyTorch 基础 - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 - [CNN + MNIST / CIFAR10 - Deeplizard](https://www.youtube.com/watch?v=gG8q2biSfR0)
-- [Speech Commands 入门 - Deeplizard](https://mlarchive.com/deep-learning/speech-command-recognition-the-ultimate-guide/))
+- [Speech Commands 入门 - Deeplizard](https://mlarchive.com/deep-learning/speech-command-recognition-the-ultimate-guide/)
 - [Speech Commands 高级 - Aladdin Persson](https://www.youtube.com/watch?v=Qj4RyX2Gh4s)
 - [Wav2Vec2 ASR Fine-tune - HuggingFace](https://huggingface.co/blog/fine-tune-wav2vec2-english)
 - [Real-Time Voice Cloning - GitHub + YouTube](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
