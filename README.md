@@ -391,8 +391,11 @@ project_fasttrack/
 ## 🔗 其他参考项目与资料合集（更新中...
 
 - [PyTorch 官方 60 分钟 Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-- [Scikit-learn 官方教程合集](https://scikit-learn.org/stable/tutorial/index.html)
-- [Wav2Vec2 + Whisper 实战项目（B站）](https://www.bilibili.com/video/BV1Bb4y1c7fG)
+- [Scikit-learn 官方教程合集](https://scikitlearn.com.cn/))
+- [基于 faster‑whisper 实现实时语音识别项目（B站）](https://www.bilibili.com/video/BV1fQ4y1j7wb/) 
+- [基于 faster‑whisper 实现实时语音识别项目（B站）](https://www.bilibili.com/video/BV1fQ4y1j7wb/) 
+- [whisper.cpp 最详细安装教程（B站）](https://www.bilibili.com/video/BV19L411v7cq/) 
+- [从 wav2vec2.0 到 HuBERT（B站）](https://www.bilibili.com/video/BV1ea411r7Wg/) 
 - [SpeechBrain 开源项目](https://speechbrain.readthedocs.io/)
 - [ESPnet 开源项目](https://espnet.github.io/espnet/)
 
