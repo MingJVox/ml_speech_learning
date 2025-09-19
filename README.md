@@ -371,7 +371,7 @@ project_fasttrack/
 
 ## 🐳 容器训练推荐资源
 
-- [📦 Docker 入门教程（B站）](https://www.bilibili.com/video/BV1mK411W7kC)
+- [📦 Docker 入门教程（B站）](https://www.bilibili.com/video/BV1THKyzBER6/?spm_id_from=333.337.search-card.all.click&vd_source=60fc8fe7df9a5d270abe321b54e20a92)
 - [🎥 Podman 使用入门（YouTube）](https://www.youtube.com/watch?v=9wlGDEg0j1A)
 - [📘 Apptainer 官方文档](https://docs.apptainer.org/)
 - [🔧 Conda + 容器搭配 Jupyter 教程](https://www.bilibili.com/video/BV1cP411v7VU)
