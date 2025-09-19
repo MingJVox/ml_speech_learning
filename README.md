@@ -46,20 +46,23 @@ ml_speech_learning/
 
 - `notebook.ipynb`：对应学习主题的代码（示例见 Day1）
 - Day1 示例目录模板:
+```
 Day1_PyTorch_Basics/
 ├── 01_notebook.ipynb # Jupyter Notebook 文件
 ├── 02_loss_curve.png # 训练曲线截图
 ├── 03_params_table.csv # 调参记录表格
 └── 04_notes.md # 学习笔记（概念 + 遇到问题 + 解决方案）
+```
 
 - `notes.md`：当日学习总结、遇到问题、链接、反思等
 - Day1 示例目录模板:
 - Notebook 文件命名规则：
+```
 DayX_ProjectName_Description.ipynb
 DayX_ProjectName_params.csv
 DayX_ProjectName_loss.png
 DayX_ProjectName_notes.md
-
+```
 ## ⚡ 使用说明
 - 可直接打开 Jupyter Notebook 运行
 - 调参结果和图表可在 `*_curve.png` 或 `params_table.csv` 中查看
