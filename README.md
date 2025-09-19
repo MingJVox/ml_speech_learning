@@ -76,7 +76,7 @@ git push origin main
 
 ---
 
-### 快速学习计划：机器学习与语音方向（每天 8 小时）
+## ✏️快速学习计划：机器学习与语音方向（每天 8 小时）
 
 目标：2 周内快速掌握 PyTorch、调参能力和语音项目实战。
 
@@ -369,7 +369,7 @@ project_fasttrack/
 - [SpeechBrain Speaker Verification & Enhancement](https://speechbrain.readthedocs.io/en/latest/)
 - [Apptainer 入门教程](https://apptainer.org/docs/)
 
-## 🐳 容器训练推荐资源
+### 🐳 容器训练推荐资源
 
 - [📦 Docker 入门教程（B站）](https://www.bilibili.com/video/BV1THKyzBER6/?spm_id_from=333.337.search-card.all.click&vd_source=60fc8fe7df9a5d270abe321b54e20a92)
 - [🎥 Podman 使用入门（YouTube）](https://www.youtube.com/watch?v=iJe0qzO8EHs)
