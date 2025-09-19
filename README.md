@@ -161,9 +161,9 @@ git push origin main
 **目标**：学会在学校 GPU 上使用容器训练
 
 * 视频教程 / 文档：
-	· Apptainer 官方教程：https://apptainer.org/docs/
-	· Podman 基础教程：https://podman.io/getting-started/
-	· YouTube 搜索：“Singularity / Apptainer PyTorch tutorial”
+	* Apptainer 官方教程：https://apptainer.org/docs/
+	* Podman 基础教程：https://podman.io/getting-started/
+	* YouTube 搜索：“Singularity / Apptainer PyTorch tutorial”
 * 任务：
 
   * 学会启动 GPU 容器 (apptainer exec --nv pytorch.sif bash)
